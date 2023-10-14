@@ -1,0 +1,16 @@
+#block{
+    width: 2400px;
+    height: 1200px;
+    top: -600px;
+    left: -1200px;
+    border-radius: 60px;
+    background-color: black;
+    
+}
+#content{
+    
+    color: white;
+    width: 712px;
+    height: 395px;
+    
+}
